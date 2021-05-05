@@ -2,9 +2,9 @@
 
 ## İçerik
 
-1. Kullanılan Teknojiler
-2. Proje Tanımı
-3. Scrum Nedir?
+1. [Kullanılan Teknojiler](https://github.com/mehmetaydintr/Scrum_Table#kullan%C4%B1lan-teknolojiler)
+2. [Proje Tanımı](https://github.com/mehmetaydintr/Scrum_Table#proje-tan%C4%B1m%C4%B1)
+3. [Scrum Nedir?](https://github.com/mehmetaydintr/Scrum_Table#scrum-nedir)
 
 ## Kullanılan Teknolojiler
 
